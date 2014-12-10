@@ -1,0 +1,12 @@
+bower_components/
+*.egg
+*.egg-info
+*.pyc
+*$py.class
+*.pt.py
+*.txt.py
+*~
+.*.swp
+.coverage
+.tox/
+*.sqlite
