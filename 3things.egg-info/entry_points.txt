@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = 3things:main
+      [console_scripts]
+      initialize_3things_db = 3things.scripts.initializedb:main
+      
