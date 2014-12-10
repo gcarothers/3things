@@ -1,0 +1,21 @@
+{
+  "name": "3things",
+  "version": "0.0.0",
+  "authors": [
+    "Gavin Carothers <gavin@carothers.name>"
+  ],
+  "description": "A pyramid status update application",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "fontawesome": "~4.2.0"
+  }
+}
