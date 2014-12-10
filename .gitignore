@@ -10,3 +10,5 @@ bower_components/
 .coverage
 .tox/
 *.sqlite
+3things/static/css/
+3things/static/sass/*.css
