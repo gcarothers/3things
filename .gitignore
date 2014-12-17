@@ -9,6 +9,9 @@ bower_components/
 .*.swp
 .coverage
 .tox/
+*.wpr
+*.wpu
 *.sqlite
 3things/static/css/
 3things/static/sass/*.css
+3things/static/js/
